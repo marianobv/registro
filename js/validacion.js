@@ -74,8 +74,8 @@ function matchPassword() {
 
 
 //4. Se debe haber marcado el checkbox "Acepto los términos y condiciones del servicio."
-function checkbox_mark(){
+/*function checkbox_mark(){
   let checkbox_variable = document.getElementById("regBtn")
 if (checkbox_variable.value!="")
 
-}
+}*/
