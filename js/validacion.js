@@ -8,7 +8,7 @@ function showAlertError() {
 
 
 //1. Ningún campo puede estar vacío.
-      //a. generar una variable
+
 function emptyfield (){
 let fields = document.getElementsByTagName("input")
 
